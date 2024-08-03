@@ -1,0 +1,87 @@
+.wrapper{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+   
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+ 
+ 
+
+}
+.title{
+    font-weight: 700;
+    font-size: 56px;
+    color: #A9A9A9;
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.8); 
+}
+.section-one{
+    background-image: url(1662225385_3-kartinkin-net-p-fon-kosmos-chernii-so-zvezdami-oboi-3.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.main-img{
+    width: 60%;
+    border-radius: 20px;
+    border: 15px solid #A9A9A9;
+}
+.second-sontainer__title{
+    font-weight: 700;
+    font-size: 56px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+.past{
+    color:#ffd700;
+    text-decoration: none;
+
+}
+.present{
+color:#c0c0c0;
+text-decoration: none;
+
+}
+.future{
+    color:#e5e4e2;
+text-decoration: none;
+
+}
+.past-title{
+    margin: 0;
+    font-weight: 700;
+    font-size: 56px;
+    color: #A9A9A9;
+}
+.red-color{
+    color: rgb(243, 75, 75);
+}
+.container-second_page{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+.yellow-color{
+    color: yellow;
+}
+.grey{
+    color: #A9A9A9;
+}
+.green{
+    color: green;
+}
+.past-img{
+    border-radius: 20px;
+    border: 15px solid #A9A9A9;
+    width: 70%;
+}
+.second-pasr__img{
+    width: 90%;
+}
